@@ -1,2 +1,2 @@
 # LGMVIP-Web
- I have developed this portfolio website using html,css and javascript
+ Created this web application using create-reactt app.
